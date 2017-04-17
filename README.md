@@ -1,4 +1,3 @@
-A click app with the github OAuth
 ClickAppAuth為Github OAuth在ClickApp上的應用，使用mongoose建立使用者資料庫並搭配Passport middleware建立Github的身份驗證與功能授權。
 有以下功能:
 1.	登入頁面上的Github OAuth的身份驗證與功能授權。
